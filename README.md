@@ -15,28 +15,26 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot](./public/ScreenShot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/junik1337/FMentor-Project1)
+- Live Site URL: [View Site](https://f-mentor-project1.vercel.app/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- [Vite](https://vite.dev/) - React framework
+- [TailwindCSS](https://tailwindcss.com/) - Utility-first CSS framework
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Abderrachid Yassir](https://abderrachid.xyz)
+- Frontend Mentor - [@junik1337](https://www.frontendmentor.io/profile/junik1337)
+- Twitter - [@junik1337](https://www.twitter.com/junik1337)
