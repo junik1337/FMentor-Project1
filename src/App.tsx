@@ -3,7 +3,7 @@ function App() {
     <main className="flex h-[98%] flex-grow w-screen max-w-[1440px] flex-col items-center justify-center">
       <div className="flex items-center justify-center flex-col max-w-xs gap-6 bg-white px-4 pt-4 pb-10 rounded-[20px]">
         <img
-          src="/src/assets/image-qr-code.png"
+          src="/image-qr-code.png"
           alt="QR Code"
           className="size-72 rounded-[10px]"
         />
