@@ -2,7 +2,7 @@
 @import "tailwindcss";
 
 body {
-  font-family: "Outfit";
+  font-family: "Outfit", monospace;
   @apply bg-slate-300;
   @apply flex antialiased w-screen min-h-screen justify-center;
 }
